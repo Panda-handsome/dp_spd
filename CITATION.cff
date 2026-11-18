@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the NeurIPS 2026 paper."
+title: "Ask in the Crowd: Differentially Private LLM Inference via Dummy-Augmented Shuffling"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Zhihao
+  - family-names: Guo
+    given-names: Zixiong
+  - family-names: Shao
+    given-names: Shuo
+  - family-names: He
+    given-names: Yu
+  - family-names: Wang
+    given-names: Wenli
+  - family-names: Chen
+    given-names: Meihui
+  - family-names: Wang
+    given-names: Di
+  - family-names: Hu
+    given-names: Yuke
+preferred-citation:
+  type: conference-paper
+  title: "Ask in the Crowd: Differentially Private LLM Inference via Dummy-Augmented Shuffling"
+  authors:
+    - family-names: Liu
+      given-names: Zhihao
+    - family-names: Guo
+      given-names: Zixiong
+    - family-names: Shao
+      given-names: Shuo
+    - family-names: He
+      given-names: Yu
+    - family-names: Wang
+      given-names: Wenli
+    - family-names: Chen
+      given-names: Meihui
+    - family-names: Wang
+      given-names: Di
+    - family-names: Hu
+      given-names: Yuke
+  year: 2026
+  conference:
+    name: "Conference on Neural Information Processing Systems"
